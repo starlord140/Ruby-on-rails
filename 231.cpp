@@ -17,6 +17,7 @@ using namespace std;
     }if(k>=2)
     {
         m++;
+         
     }
 }
 cout<<m;
